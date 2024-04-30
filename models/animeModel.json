@@ -1,0 +1,12 @@
+{
+    "Name": "Name",
+    "Desc": "Desc",
+    "Genre": ["Action", "Aventure"],
+    "IsTrack": false,
+    "Saisons": {
+        "saison1": {
+            "NbEps": 12,
+            "IsFinish": false
+        }
+    }
+}
